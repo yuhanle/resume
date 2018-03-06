@@ -59,7 +59,7 @@ window.__INFO__.cn = {
     style: {
       background: '#F2541B'
     },
-    grade: 80
+    grade: 70
   }, {
     value: 'Node.js',
     style: {
@@ -67,14 +67,14 @@ window.__INFO__.cn = {
     },
     grade: 50
   }, {
-    value: 'PHP',
+    value: 'React, React-Native',
     style: {
       background: 'linear-gradient(to bottom, #8ccf00 , #80bd01)',
       borderColor: '#8093d1'
     },
-    grade: 70
+    grade: 60
   }, {
-    value: 'Go , Python',
+    value: 'PHP, Go, Python',
     style: {
       background: '#FFC304'
     },
@@ -118,16 +118,25 @@ window.__INFO__.cn = {
       linkRefer: '去 AppStore 查看详情',
       posi: 'left'
     },
+    lqcx: {
+      background: '#389867',
+      // mainImage: baseUrl + '/img/projects/lqcx' + imgSuffix,
+      title: '猎骑出行',
+      subTitle: 'iOS+React-Native',
+      desc: '猎骑出行是360骑卫士旗下一款共享电单解决方案，项目通过原生+React-Native 混合开发，属于演示项目，暂未上线。从该项目中，我们学习了React-Native 的开发流程和语法知识，提升团队合作效率。',
+      posi: 'left'
+    },
     qwsweapp: {
       background: '#222',
       mainImage: baseUrl + '/img/projects/qws-weapp' + imgSuffix,
       title: '360骑卫士-小程序',
       subTitle: '微信小程序',
       desc: '360骑卫士小程序版本，用于刚购买设备，无法下载APP，可以通过小程序快速注册账号，并绑定设备，使用微信报警和定位信息，结合公众号让用户第一时间知晓车辆信息。',
-      posi: 'left'
+      posi: 'right'
     },
     zczs: {
       background: '#339966',
+      mainImage: baseUrl + '/img/projects/zczs' + imgSuffix,
       title: '追车助手-小程序',
       subTitle: '微信小程序',
       desc: '公司为大客户提供的帮助用户寻找车辆的便捷系统，用户可上报丢车信息，大客户管理人员可通过该软件查看相关信息。',
@@ -135,10 +144,11 @@ window.__INFO__.cn = {
     },
     xhdz: {
       background: '#336699',
+      mainImage: baseUrl + '/img/projects/xhdz' + imgSuffix,
       title: '小虎电站',
       subTitle: '微信小程序',
       desc: '小虎电站提供安全可靠的共享充电方式，解决电动自行车用户充电难，充电不安全等各种问题，覆盖小区，停车场，写字楼等区域。通过该项目，深入学习和使用了长连接相关知识。',
-      posi: 'left'
+      posi: 'right'
     },
     shxt: {
       background: '#389867',
@@ -201,7 +211,7 @@ window.__INFO__.en = {
     style: {
       background: '#F2541B'
     },
-    grade: 80
+    grade: 70
   }, {
     value: 'Node.js',
     style: {
@@ -209,14 +219,14 @@ window.__INFO__.en = {
     },
     grade: 50
   }, {
-    value: 'PHP',
+    value: 'React, React-Native',
     style: {
       background: 'linear-gradient(to bottom, #8ccf00 , #80bd01)',
       borderColor: '#8093d1'
     },
-    grade: 70
+    grade: 60
   }, {
-    value: 'Go , Python',
+    value: 'PHP, Go, Python',
     style: {
       background: '#FFC304'
     },
@@ -260,16 +270,25 @@ window.__INFO__.en = {
       linkRefer: 'View AppStore',
       posi: 'left'
     },
+    lqcx: {
+      background: '#389867',
+      // mainImage: baseUrl + '/img/projects/lqcx' + imgSuffix,
+      title: 'Hunting ride travel',
+      subTitle: 'iOS + React-Native',
+      desc: 'Hunting ride is a 360-Cavalier Guardian\'s shared electric bill solution, the project through native + React-Native hybrid development, is a demonstration project, is not yet on the line. From this project, we learned React-Native\'s development process and grammar knowledge to improve teamwork efficiency. ',
+      posi: 'left'
+    },
     qwsweapp: {
       background: '#222',
       mainImage: baseUrl + '/img/projects/qws-weapp' + imgSuffix,
       title: '360 Horse Guard - Applet',
       subTitle: 'WeChat Applet',
       desc: '360 rider guard applet version for the purchase of equipment, can not download the APP, you can quickly register an account through the applet and bind the device, using WeChat alarm and location information, combined with the public number to allow users to know the vehicle for the first time information. ',
-      posi: 'left'
+      posi: 'right'
     },
     zczs: {
       background: '#339966',
+      mainImage: baseUrl + '/img/projects/zczs' + imgSuffix,
       title: 'chasing car assistant - applet',
       subTitle: 'WeChat Applet',
       desc: 'The company offers its large customers a convenient system to help users find vehicles, and users can report discard information, which can be viewed by key account managers. ',
@@ -277,10 +296,11 @@ window.__INFO__.en = {
     },
     xhdz: {
       background: '#336699',
+      mainImage: baseUrl + '/img/projects/xhdz' + imgSuffix,
       title: 'Tiger Power Station',
       subTitle: 'WeChat Applet',
       desc: 'Tiger power station to provide safe and reliable shared charging method to solve the problem of electric bicycle users charging difficult, charging unsafe and other issues, covering residential areas, parking lots, office buildings and other regions. Through this project, in-depth study and use of long-connected knowledge. ',
-      posi: 'left'
+      posi: 'right'
     },
     shxt: {
       background: '#389867',
