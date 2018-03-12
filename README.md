@@ -2,7 +2,7 @@
 
 > My resume is powered by vue.js
 
-Website: [https://deadvia.github.io/resume](https://deadvia.github.io/resume)
+Website: [https://yuhanle.github.io/resume](https://yuhanle.github.io/resume)
 
 ## Build Setup
 
