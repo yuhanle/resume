@@ -10,7 +10,7 @@ window.__INFO__ = {}
 
 window.__INFO__.cn = {
   baseUrl: baseUrl,
-  title: '快速开始',
+  title: '煜寒了的简历',
   name: '温世波',
   avatar: baseUrl + '/img/avatar.png',
   shortDescription: '励志成为一只情商在线的全栈老司机',
@@ -162,7 +162,7 @@ window.__INFO__.cn = {
 
 window.__INFO__.en = {
   baseUrl: baseUrl,
-  title: 'Started OK',
+  title: 'Resume',
   name: 'Wen shibo',
   avatar: baseUrl + '/img/avatar.png',
   shortDescription: 'Inspirational become an EQ online full stack of old drivers',
