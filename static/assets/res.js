@@ -14,7 +14,7 @@ window.__INFO__.cn = {
   name: '温世波',
   avatar: baseUrl + '/img/avatar.png',
   shortDescription: '励志成为一只情商在线的全栈老司机',
-  description: '自 2013 年开始接触 iOS 开发，至今已有 5 年多 iOS 开发经验，熟练掌握 Swift、Objective-C 代码的编写。目前就职于360骑卫士，曾负责360骑卫士的开发、维护及小组管理，目前负责 iOS 开发组的日常管理、任务分发和工作推进。',
+  description: '自 2014 年开始接触 iOS 开发，至今已有 4 年多 iOS 开发经验，熟练掌握 Swift、Objective-C 代码的编写。目前就职于360骑卫士，曾负责360骑卫士的开发、维护及小组管理，目前负责 iOS 开发组的日常管理、任务分发和工作推进。',
   infomations: [{
     icon: baseUrl + '/img/information/birthday.svg',
     key: '生日',
@@ -166,7 +166,7 @@ window.__INFO__.en = {
   name: 'Wen shibo',
   avatar: baseUrl + '/img/avatar.png',
   shortDescription: 'Inspirational become an EQ online full stack of old drivers',
-  description: 'I\'ve been in iOS development since 2013, and I\'ve had more than 5 years of iOS development experience so I can master Swift and Objective-C code. Currently working in 360-rider guards, he was responsible for the 360-rider guards development, maintenance and team management and is currently responsible for day-to-day management, task distribution and work advancement of the iOS development team.',
+  description: 'I\'ve been in iOS development since 2014, and I\'ve had more than 4 years of iOS development experience so I can master Swift and Objective-C code. Currently working in 360-rider guards, he was responsible for the 360-rider guards development, maintenance and team management and is currently responsible for day-to-day management, task distribution and work advancement of the iOS development team.',
   infomations: [{
     icon: baseUrl + '/img/information/birthday.svg',
     key: 'Birthday',
