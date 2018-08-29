@@ -46,20 +46,20 @@ window.__INFO__.cn = {
       background: 'linear-gradient(to bottom, #8093d1 , #7b8ec9)',
       borderColor: '#8093d1'
     },
-    grade: 90
+    grade: 80
   }, {
     value: 'HTML , CSS',
     style: {
       background: 'linear-gradient(to bottom, #8093d1 , #7b8ec9)',
       borderColor: '#8093d1'
     },
-    grade: 70
+    grade: 60
   }, {
     value: 'JavaScript , Vue.js',
     style: {
       background: '#F2541B'
     },
-    grade: 70
+    grade: 60
   }, {
     value: 'Node.js',
     style: {
@@ -78,7 +78,7 @@ window.__INFO__.cn = {
     style: {
       background: '#FFC304'
     },
-    grade: 60
+    grade: 30
   }],
   works: [{//240 * 150
     name: '上海天奕无线信息科技有限公司',
@@ -198,20 +198,20 @@ window.__INFO__.en = {
       background: 'linear-gradient(to bottom, #8093d1 , #7b8ec9)',
       borderColor: '#8093d1'
     },
-    grade: 90
+    grade: 80
   }, {
     value: 'HTML , CSS',
     style: {
       background: 'linear-gradient(to bottom, #8093d1 , #7b8ec9)',
       borderColor: '#8093d1'
     },
-    grade: 70
+    grade: 60
   }, {
     value: 'JavaScript , Vue.js',
     style: {
       background: '#F2541B'
     },
-    grade: 70
+    grade: 60
   }, {
     value: 'Node.js',
     style: {
@@ -230,7 +230,7 @@ window.__INFO__.en = {
     style: {
       background: '#FFC304'
     },
-    grade: 60
+    grade: 30
   }],
   works: [{// 240 * 150
     name: '360qws Technology Co., Ltd.',
